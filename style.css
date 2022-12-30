@@ -19,6 +19,12 @@ input {
   overflow: hidden;
 }
 
+.fotor {
+  position: relative;
+  background-color:#b0e9f0;
+  overflow: hidden;
+}
+
 .forms-container {
   position: absolute;
   width: 100%;
