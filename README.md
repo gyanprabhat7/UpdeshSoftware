@@ -3,7 +3,8 @@ Vihangam Yoga Updesh Software
 
 Status: Page is live now however it does not posses any function on login page i.e. Its just a mere responsive UI/UX page.
 
-Credis: Illustrations are from - undraw.co and manypixels.co
+Credis:
+        Illustrations are from - undraw.co and manypixels.co
 
         Color Palette Idea from -  colorhunt.co
         
