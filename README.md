@@ -1,12 +1,14 @@
 # vihangamyoga
-Vihangam Yoga Updesh Sewa Portal
+Vihangam Yoga Updesh Software
 
-This repository is exclusive for login/signup page of VY updesh sewa portal.
-Landing page is built using carrd https://vihangamyoga.carrd.co
+Status: Page is live now however it does not posses any function on login page i.e. Its just a mere responsive UI/UX page.
 
-Status: Page is live now however it does not posses any function i.e. Its just a mere responsive UI/UX page.
+Credis: Illustrations are from - undraw.co and manypixels.co
+        Color Palette Idea from -  colorhunt.co
+        landing page Idea from carrd.co
+        Login Page Idea by @sefyudem
+        Designed by @gyanprabhat7
 
-Credis: Illustrations are from https://undraw.co
 
 
 Cloning/redistribution without permission is highly prohibited
