@@ -22,4 +22,4 @@ Cloning/redistribution without permission is highly prohibited
 © 2022 Gyann Technologies. --> https://gyanntechnologies.carrd.co/
 
 
-![updeshsoftwarelogo](https://user-images.githubusercontent.com/75989086/210129715-4c4830c3-cbbb-4048-a75f-ab7f15b92ca9.png)
+![updeshsoftwarelogo](https://user-images.githubusercontent.com/75989086/210233819-87c85e89-9a23-424f-bf3c-2e5363d7c5ad.png)
