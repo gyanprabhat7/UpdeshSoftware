@@ -2,6 +2,7 @@
 Vihangam Yoga Updesh Software
 
 >> https://updeshsoftware.gyann.co.in 
+>> https://updesh.pages.dev
 
 Status: Page is live now however it does not posses any function on login page i.e. Its just a mere responsive UI/UX page.
 
